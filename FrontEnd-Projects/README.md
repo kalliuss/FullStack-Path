@@ -1,4 +1,4 @@
-<h1>FrontEnd-Projecs with HTMLL & CSS & JavaScript</h1>
+<h1>FrontEnd-Projecs with HTML5 & CSS & JavaScript</h1>
 
 <p>FullStack yolculuğumda FrontEnd kapsamında geliştirdiğim projelerim;</p>
 
