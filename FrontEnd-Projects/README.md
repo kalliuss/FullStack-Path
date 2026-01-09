@@ -2,8 +2,14 @@
 
 <p>FullStack yolculuğumda FrontEnd kapsamında geliştirdiğim projelerim;</p>
 
-<ul>
-  <li>
-    single-page-cv: https://roadmap.sh/projects/single-page-cv
-  </li>
-</ul>
+<section>
+ 
+
+
+  [single-page-cv](https://roadmap.sh/projects/single-page-cv)
+
+
+  [basic-html-website](https://roadmap.sh/projects/basic-html-website)
+
+
+</section>
