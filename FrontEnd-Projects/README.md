@@ -12,7 +12,7 @@
   [basic-html-website](https://roadmap.sh/projects/basic-html-website)
 
 
-  [personal-portfolio](https://roadmap.sh/projects/portfolio-website)
+  [personal-portfolio](https://roadmap.sh/projects/portfolio-website)  (The CSS designs were created with the assistance of ChatGPT for educational purposes.)
 
 
 </section>
