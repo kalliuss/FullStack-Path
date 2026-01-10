@@ -12,4 +12,7 @@
   [basic-html-website](https://roadmap.sh/projects/basic-html-website)
 
 
+  [personal-portfolio](https://roadmap.sh/projects/portfolio-website)
+
+
 </section>
